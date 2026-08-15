@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BS Software Engineering Student
+- 🎓 BS Software Engineering 
 - 💻 Passionate about Web Development & AI
 - 🌱 Currently learning **React, Firebase, Node.js, AI Integration**
 - 🚀 Working on innovative software solutions
